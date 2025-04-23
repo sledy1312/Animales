@@ -2,3 +2,4 @@
 2. jirafa
 3. leon
 4. cabra
+5. perro

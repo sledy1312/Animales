@@ -3,3 +3,4 @@
 3. leon
 4. cabra
 5. perro
+6. gato

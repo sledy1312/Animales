@@ -4,4 +4,3 @@
 4. cabra
 5. perro
 6. gato
-7. conejo
